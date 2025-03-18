@@ -9,9 +9,8 @@ Streamlit dashboard.
 
 ## Directory Structure
 
-├── `main.py` – Contains data processing functions for cleaning and analyzing conversation data.  
 ├── `app.py` – Streamlit app that imports functions from `main.py` (and `funcs.py`) to display the analysis.  
-├── `funcs.py` – Additional processing and analysis functions.  
+├── `funcs.py` – Contains data processing functions for cleaning and analyzing conversation data.   
 ├── `dataset_conversations.txt` – Raw conversation data in JSON/JSONL format.  
 ├── `conversations_research.ipynb` – Jupyter Notebook for raw data exploration and research.  
 ├── `requirements.txt` – List of dependencies for the project.  
