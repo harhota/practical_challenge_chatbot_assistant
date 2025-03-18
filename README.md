@@ -64,11 +64,3 @@ Navigation is available via the sidebar, and interactive elements allow you to e
 
 For further insights and raw exploration of the data, please refer to the `conversations_research.ipynb` notebook. Though it is raw,
 the notebook documents the initial experiments. Probably in the meantime it will be cleaned and re-uploaded. 
-
-
-### License
-
-This project is licensed under the MIT License – see the LICENSE file for details.
-
-### Contact
-For any questions or feedback, please contact your.email@example.com.
