@@ -53,13 +53,6 @@ Ensure you have Python 3.11 (or a compatible version) installed, then run:
 
 The dashboard in `app.py` provides:
 
-**Overall Conversation Metrics:** 
-
-Displays total conversations and the number of successful conversations.
-Dialogue Length Analysis: Presents metrics such as the median dialogue lengths for individual conversations (with the extreme outlier excluded) and overall statistics.
-Qualitative Analysis: Offers expandable sections for in-depth reports on specific conversations (e.g., conversation #3 and conversation #17), highlighting differences in average words per turn and key thematic insights.
-Navigation is available via the sidebar, and interactive elements allow you to expand or hide detailed reports as needed.
-
 **Research & Analysis**
 
 For further insights and raw exploration of the data, please refer to the `conversations_research.ipynb` notebook. Though it is raw,
