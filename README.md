@@ -50,7 +50,7 @@ Ensure you have Python 3.11 (or a compatible version) installed, then run:
 
 `streamlit run app.py`
 
-The dashboard in `app.py` provides:
+The dashboard in `app.py` provides main research insights 
 
 **Research & Analysis**
 
